@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Primer Día Exitoso!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hoy iniciamos surfeando en el Bear Market Index, principalmente porque es sábado y los principales pares de divisas se encuentran cerrados. Sin embargo hemos descubierto que este índice puede llegar a ser  muy rentable ya que la mayoría del tiempo presenta tendencia a la baja. En resumen, de 37 operaciones en total 19 terminaron como ganadoras y nos fuimos con un poco mas de 5 dólares en el bolsillo.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
